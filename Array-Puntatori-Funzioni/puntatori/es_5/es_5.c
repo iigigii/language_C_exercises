@@ -4,7 +4,6 @@
  * @brief funzione che stampa il valore e l'indirizzo di una variabile di tipo int
  *
  * @param m variabile che contiene il valore e l'indirizzo da stampare
- *
  */
 void indirizzamento_variabile(int m)
 {
@@ -16,7 +15,6 @@ void indirizzamento_variabile(int m)
  * @brief funzione che stampa il valore e l'indirizzo di un array di tipo int passato per funzione
  *
  * @param a array che continene il valore e l'indirizzo del primo elemento da stampare
- *
  */
 void indirizzamento_array(int a[])
 {
